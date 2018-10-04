@@ -1,2 +1,2 @@
-# my-profile
-Profile page for personal projects 
+# portfolio
+Portfolio for work and personal projects 
